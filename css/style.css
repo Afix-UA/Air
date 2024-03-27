@@ -801,9 +801,7 @@ h6 {
   line-height: 1.5;
   transition: all .3s
 }
-.no-webp .hero__window {
-  background: url(../img/hero/background.png) no-repeat
-}
+
 .hero__window {
   flex: 1 1 50%;
   position: absolute;
